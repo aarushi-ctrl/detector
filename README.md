@@ -1,4 +1,5 @@
-# 🔐 Real-Time Website Security Analyzer
+ThreatLENS 🔐
+# Real-Time Website Security Analyzer
 
 A browser-based security tool that analyzes websites in real time and provides a **Security Score (0–100)** along with AI-based phishing detection and detailed risk explanations.
 
