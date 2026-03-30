@@ -53,9 +53,18 @@ Extension → Backend API → ML Model
 | AI Detection | 20 |
 | URL Patterns | 15 |
 
+
+DEMO PICTURES 
+<img width="352" height="462" alt="image" src="https://github.com/user-attachments/assets/20580048-04c0-4050-81bb-89e84b0b1687" />
+<img width="347" height="470" alt="image" src="https://github.com/user-attachments/assets/d2a858ea-9958-48c8-8ff7-c0220e8fe357" />
+<img width="374" height="457" alt="image" src="https://github.com/user-attachments/assets/938241f6-3953-4c7e-98ef-52cd671a6e87" />
+
+
 ## ⚙️ Installation
 
 ### 1. Clone repo
 ```bash
 git clone https://github.com/aarushi-ctrl/ThreatLENS.git
 cd ThreatLENS
+The current model is a prototype and will be improved using larger real-world phishing datasets such as PhishTank during the development phase.
+Planned integration with threat intelligence APIs such as VirusTotal for enhanced detection.
