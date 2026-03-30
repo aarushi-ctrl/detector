@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  width: 260px;
+  padding: 10px;
+  background: #f4f6f8;
+}
+
+h2 {
+  text-align: center;
+}
+
+#score {
+  color: blue;
+  font-size: 18px;
+}
